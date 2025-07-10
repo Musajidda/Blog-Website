@@ -80,8 +80,7 @@ else
           header("refresh:1;url=show_draft.php");	
           echo "<script>alert('successfuly Saved !');</script>"; 
                   
-        }
-                 jhkjsdhjk     
+        }  
     
     
     }
